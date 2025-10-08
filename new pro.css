@@ -27,4 +27,16 @@ a{
     color: white;
     cursor: pointer;
 }
+.partie1{
+    text-align: center;
+}
+.get{
+    background-color:rgb(26, 172, 26);
+    color: white;
+    border-radius: 10px;
+    height: 33px;
+}
+.first{
+    padding: 0 500px 0 500px;
+}
 
