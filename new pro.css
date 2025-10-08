@@ -39,4 +39,9 @@ a{
 .first{
     padding: 0 500px 0 500px;
 }
+.soustitre{
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+}
 
