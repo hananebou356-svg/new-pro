@@ -1,0 +1,30 @@
+body{
+
+}
+nav{
+    background-color: rgb(226, 202, 248);
+    height: 60px;
+    display: flex;
+    justify-content: space-between;
+    
+}
+a{
+    text-decoration: none;
+}
+.navbar1{
+    display: flex;
+    padding: 18px;
+    gap: 10px;
+    
+}
+.navbar2{
+     display: flex;
+    padding: 18px;
+    gap: 10px;
+}
+.getfree{
+    background-color: black;
+    color: white;
+    cursor: pointer;
+}
+
