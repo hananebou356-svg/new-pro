@@ -166,7 +166,7 @@ top: 1848px;
     width: 800px;
     display: flex;
     justify-content: space-around;
-    gap: 10px;
+    gap: 20px;
     border: 2px solid;
     margin-left: 300px;
     border-radius: 15px;
@@ -177,4 +177,54 @@ top: 1848px;
 }
 .num{
     font-size: 50px;
+}
+.live{
+    border: 2px solid;
+    width: 280px;
+    height: 280px;
+    display: flexbox;
+    justify-content: space-around;
+    border-radius: 15px;
+    padding: 10px;
+}
+.li{
+    width: 40px;
+    margin: 10px;
+    border: 2px solid;
+}
+.amore{
+    padding: 75px 0 0 0;
+}
+.partie6{
+    display: flex;
+    justify-content:center ;
+    padding: 50px;
+    gap: 20px;
+}
+.am{
+    padding: 92px 0 0 0;
+}
+.par2{
+   border: 2px solid;
+    width: 850px;
+    height: 100px;
+    display: flex;
+    
+    border-radius: 15px;
+    padding: 50px;
+    margin: 0 0 0 270px;
+ 
+}
+.st{
+    background-color: rgb(254, 225, 10);
+    width: 180px;
+    height: 30px;
+    border-radius: 15px;
+}
+.your{
+    padding: 0 70px 0 70px;
+}
+.too{
+     padding: 20px 70px 0 70px;
+     text-align: center;
 }
