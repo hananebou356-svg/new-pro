@@ -44,4 +44,54 @@ a{
     justify-content: center;
     gap: 30px;
 }
+.sell{
+    text-align: left;
+}
+.media{
+    display: flex;
+    justify-content:left;
+    padding: 0 500px 0 0;
+}
+.partie2{
+    padding: 0 250px 0 250px;
+}
+.commenter{
+    display: flex;
+    justify-content: right;
+    padding: 0 550px 0 0;
 
+}
+.michelle{
+    display: flex;
+    justify-content: space-between;
+    padding: 0 150px 0 20px;
+}
+
+.learn{
+    background-color:rgb(244, 194, 119) ;
+    width: 150px;
+    border-radius: 10PX;
+}
+.commente{
+    padding: 20px 450px 0 20px;
+
+}
+.comm{
+    background-color: rgb(247, 195, 118);
+    border-radius: 37px;
+    height: 180px;
+    border: 2px solid;
+}
+.orange{
+    position: absolute;
+    right: 150px;
+top: 724px;
+}
+.Jackson{
+    width: 25px;
+    border-radius: 100%;
+}
+.photo{
+    display: flex;
+    text-align: center;
+}
