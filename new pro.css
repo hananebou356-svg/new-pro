@@ -95,3 +95,47 @@ top: 724px;
     display: flex;
     text-align: center;
 }
+.partie3{
+    padding: 100px 0 0 180px;
+}
+.gr{
+    padding: 0 250px 0 350px;
+}
+.grow{
+    text-align: left;
+}
+.go{
+    display: flex; 
+    justify-content:right;
+   
+}
+.green{
+     position: absolute;
+    left: 55px;
+top: 1285px;
+}
+.easy{
+    padding: 20px 0 0 95px;
+    background-color: rgb(142, 241, 123);
+    border-radius: 37px;
+    height: 150px;
+    width: 980px;
+    border: 2px solid;
+}
+.to{
+    padding: 0 100px 0 250px;
+}
+.fille{
+    display: flex;
+    justify-content: space-around;
+    padding: 0 350px 0 0;
+}
+.prof{
+    width: 25px;
+    border-radius: 100%; 
+}
+.more{
+    background-color:rgb(142, 241, 123) ;
+    width: 150px;
+    border-radius: 10PX;
+}
