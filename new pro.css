@@ -151,7 +151,7 @@ top: 1848px;
     color: white;
 }
 .partie4{
-    padding: 100px 250px 0 250px;
+    padding: 100px 250px 100px 250px;
 }
 ..sell4{
     text-align: left;
@@ -161,4 +161,20 @@ top: 1848px;
     width: 150px;
     border-radius: 10PX;
     color: white;
+}
+.partie5{
+    width: 800px;
+    display: flex;
+    justify-content: space-around;
+    gap: 10px;
+    border: 2px solid;
+    margin-left: 300px;
+    border-radius: 15px;
+    height: 250px;
+    align-items: center;
+    padding: 50px;
+    background-image: url(./world_2.png);
+}
+.num{
+    font-size: 50px;
 }
