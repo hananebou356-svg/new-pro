@@ -139,3 +139,26 @@ top: 1285px;
     width: 150px;
     border-radius: 10PX;
 }
+.blue{
+     position: absolute;
+    right: 120px;
+top: 1848px;
+}
+.comm2{background-color: rgb(29, 62, 244);
+    border-radius: 37px;
+    height: 180px;
+    border: 2px solid;
+    color: white;
+}
+.partie4{
+    padding: 100px 250px 0 250px;
+}
+..sell4{
+    text-align: left;
+}
+.learn2{
+    background-color:rgb(29, 62, 244);
+    width: 150px;
+    border-radius: 10PX;
+    color: white;
+}
