@@ -212,7 +212,7 @@ top: 1848px;
     
     border-radius: 15px;
     padding: 50px;
-    margin: 0 0 0 270px;
+    margin: 0 0 50px 270px;
  
 }
 .st{
@@ -227,4 +227,67 @@ top: 1848px;
 .too{
      padding: 20px 70px 0 70px;
      text-align: center;
+}
+footer{ 
+    background-color: black;
+color: white;
+
+}
+.footer1{
+    display: flex;
+    justify-content: center;
+    gap: 60px;
+    padding: 50px 0 20px 0;
+}
+.black{
+    width: 100px;
+}
+.footer2{
+    display: flex;
+    justify-content: center;
+    gap: 60px;
+    padding: 0px 0 50px 200px;
+}
+.gray{
+    color: rgb(191, 187, 187);
+}
+input{
+    background-color: black;
+    border: 1px solid white;
+    border-radius: 2px;
+    color: white;
+}
+.down{
+    display: flex;
+    justify-content: space-around;
+    padding: 5px 40px 5px 200px;
+}
+.icons{
+    font-size: 25px;
+}
+.app{
+    width: 250px;
+}
+.glo{
+    width: 30px;
+}
+.global{
+    display: flex;
+    justify-content: space-between;
+    padding: 0 15px 10px 15px;
+    
+}
+.dpa{
+  display: flex;
+  text-align: center;
+  gap: 20px;
+}
+a{
+    color: white;
+}
+.copy{
+    color: rgb(191, 187, 187);
+}
+hr{
+    border: 1px solid rgb(191, 187, 187);
 }
