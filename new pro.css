@@ -2,7 +2,7 @@ body{
 
 }
 nav{
-    background-color: rgb(226, 202, 248);
+    background-color:white;
     height: 60px;
     display: flex;
     justify-content: space-between;
@@ -10,6 +10,7 @@ nav{
 }
 a{
     text-decoration: none;
+    color: black;
 }
 .navbar1{
     display: flex;
@@ -282,7 +283,7 @@ input{
   text-align: center;
   gap: 20px;
 }
-a{
+.fin{
     color: white;
 }
 .copy{
